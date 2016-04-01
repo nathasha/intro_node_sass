@@ -1,0 +1,16 @@
+{
+  "name": "node_sass",
+  "version": "1.0.0",
+  "description": "Intro to node sass",
+  "main": "index.js",
+  "author": "Nathasha Loos",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^3.4.2",
+    "nodemon": "^1.9.1"
+  },
+  "scripts": {
+    "build-css" : "./bin/build-css"
+
+  }
+}

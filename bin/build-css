@@ -1,0 +1,1 @@
+node-sass --include-path scss/imports --output-style compact scss/main  --output public/css
