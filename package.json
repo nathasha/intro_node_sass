@@ -5,10 +5,12 @@
   "main": "index.js",
   "author": "Nathasha Loos",
   "license": "ISC",
+
   "devDependencies": {
     "node-sass": "^3.4.2",
-    "nodemon": "^1.9.1"
+    "nodemon": "^1.9.1" // TO watch sass files
   },
+
   "scripts": {
     "build-css" : "./bin/build-css"
 
