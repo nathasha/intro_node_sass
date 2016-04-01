@@ -1,1 +1,1 @@
-node-sass --include-path scss/imports --output-style compact scss/main  --output public/css
+node-sass --include-path scss/imports --output-style compact -w scss/main scss/main  --output public/css

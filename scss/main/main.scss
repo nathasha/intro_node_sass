@@ -8,9 +8,11 @@ body {
 
 .button {
   color: $light-pink;
+  font-size: 12px;
   @include transition(color .3s ease);
 
   &:hover {
     color: $dark-pink;
+
   }
 }
